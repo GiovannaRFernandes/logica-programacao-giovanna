@@ -19,4 +19,4 @@ Exemplo: Colocar a comida dos gatos, com as vasilhas já vazias e limpas.
 2. GitHub - é uma plataforma, espécie de rede social, em que o que se disponibiliza online seus projetos do Git.
 3. Fases do algoritmo - entrada (onde os dados são disponibilizados), processamento (manipulação dos dados para ter um resultado), saída (apresentação desse resultado)
 4. Fluxograma - é uma representação gráfica de um processo, no qual cada símbolo significa uma ação.
-Lógica - é o estudo do "pensar corretamente", que nos ajuda a transformar esse pensamento em uma sequência lógica de ações para se obter o resultado esperado.
+5. Lógica - é o estudo do "pensar corretamente", que nos ajuda a transformar esse pensamento em uma sequência lógica de ações para se obter o resultado esperado.
