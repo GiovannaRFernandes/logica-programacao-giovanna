@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class exercicio {
+public class ExercicioTemperatura {
     public static void main(String[] args){
         Scanner leitura = new Scanner(System.in);
         double temperatura;
