@@ -1,4 +1,6 @@
-//APS DE LÓGICA DE PROGRAMAÇÃO - Giovanna Rocha Fernandes
+//APS DE LÓGICA DE PROGRAMAÇÃO 
+//Programa interativo desenvolvido em Java como atividade avaliativa da disciplina de Lógica de Programação. 
+//O programa aborda o tema de segurança digital por meio de duas funcionalidades: um guia rápido de dicas sobre senhas seguras, phishing e golpes online, e um teste no estilo BuzzFeed onde o usuário acumula pontos e descobre seu perfil de segurança digital.
 //Guia rápido de segurança digital + Teste/Quiz
 //TÓPICOS: Senhas Seguras, Phishing e Golpes Online
 //Fonte do conteúdo: cartilha.cert.br
@@ -17,7 +19,7 @@ public class APSLogProgramacao {
         //Início do programa, o menu principal
         while( opcao != 0) {
             System.out.println("----------------------------------------------------");
-            System.out.println("****** OLÁ! SEREI SEU GUIA DE SEGURANÇA DIGITAL ******");
+            System.out.println("****** OLÁ! SEREI SEU GUIA DE SEGURANÇA DIGITAL ******");                                                                                                                                                                                                                
             System.out.println("----------------------------------------------------");
             System.out.println("O que você deseja fazer hoje?");
             System.out.println("----------------------------------------------------");
